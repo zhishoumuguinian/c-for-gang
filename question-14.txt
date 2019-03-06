@@ -1,0 +1,10 @@
+Describe:
+鸡兔同笼
+已知鸡和兔的总数量为n，总腿数为m。输入n和m，依次输出鸡的数目和兔的数目。如果无解，输出no anwser(没有答案)
+
+input：
+14 32
+10 16
+output:
+12 2
+no anwser
